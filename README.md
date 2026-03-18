@@ -6,7 +6,7 @@
 ---
 
 ### 📂 My Journey
-* 📈 Goal: Learning C++ & gaining 10kg!
+* 📈 Goal: Learning C++
 * 📍 Status: First Year College Student
 
 ---
